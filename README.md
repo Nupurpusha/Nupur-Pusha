@@ -51,8 +51,6 @@
 
 
 
-
-<!--https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact          if you want to show percentage of used language also--> 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nupurpusha&hide_progress=true&locale=en&layout=compact&theme=tokyonight" alt="Nupurpusha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nupurpusha&show_icons=true&locale=en&theme=tokyonight" alt="Nupurpusha" /></p>
@@ -65,6 +63,3 @@
     </a>
 </p>
 
-<p align="center">
-<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Nupurpusha}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
-</p>
