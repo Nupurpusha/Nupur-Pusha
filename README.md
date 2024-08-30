@@ -5,21 +5,21 @@
 
 -  🌱 I Am Into **Web Development** And **Machine Learning!**
 
--  📫 How to reach me **harsimransinghdalal@gmail.com**
+-  📫 How to reach me **nupurpusha26@gmail.com**
 
 <!-- 📄 Know about my experiences [Current CV](https://1drv.ms/w/c/b491ce023b438c98/EW5N-OhNXuFAiAlIZcac5I0BNnpAtKwOOBz9ahP5AuW32Q?e=m947MV) -->
   
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Harsimran-Dalal&label=Profile%20views&color=0e75b6&style=flat" alt="Harsimran-Dalal" /> 
+  <img src="https://komarev.com/ghpvc/?username=Nupurpusha&label=Profile%20views&color=0e75b6&style=flat" alt="Nupur-Pusha" /> 
 </p>
                    
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/harsimran-singh-dalal-614a39286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsimran singh dalal" height="30" width="40" /></a>
-<a href="https://kaggle.com/harsimransinghdalal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harsimransinghdalal" height="30" width="40" /></a>
-<a href="https://instagram.com/honeydalal_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="honeydalal_20" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nupur-pusha-b0aba8312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nupur Pusha" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/nupurpusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Nupurpusha" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nupur_pusha321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="honeydalal_20" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,18 +42,18 @@
 <!-- /<p><a href="https://www.buymeacoffee.com/buymeacoffee Harsimran-Dalal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee Harsimran-Dalal" /></a></p><br><br> -->
 
 <!--https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact          if you want to show percentage of used language also--> 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsimran-Dalal&hide_progress=true&locale=en&layout=compact&theme=tokyonight" alt="harsimran-dalal" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nupurpushal&hide_progress=true&locale=en&layout=compact&theme=tokyonight" alt="Nupurpusha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsimran-dalal&show_icons=true&locale=en&theme=tokyonight" alt="harsimran-dalal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nupurpusha&show_icons=true&locale=en&theme=tokyonight" alt="Nupurpusha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsimran-dalal&theme=tokyonight" alt="harsimran-dalal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nupurpusha&theme=tokyonight" alt="Nupur pusha" /></p>
 
 <p align="center">
     <a href="https://wakatime.com/@Goblin8888">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsimran-Dalal&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nupurpusha&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 
 <!--<p align="center">
-<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Harsimran-Dalal}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Nupurpusha}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
 </p> -->
