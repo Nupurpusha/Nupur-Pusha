@@ -7,7 +7,7 @@
 
 -  📫 How to reach me **nupurpusha26@gmail.com**
 
-<!-- 📄 Know about my experiences [Current CV](https://1drv.ms/w/c/b491ce023b438c98/EW5N-OhNXuFAiAlIZcac5I0BNnpAtKwOOBz9ahP5AuW32Q?e=m947MV) -->
+
   
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Nupurpusha&label=Profile%20views&color=0e75b6&style=flat" alt="Nupur-Pusha" /> 
@@ -37,6 +37,17 @@
 <a href="https://www.tinkercad.com/" target="_blank"> 
   <img src="https://www.tinkercad.com/img/favicon.ico" alt="Tinkercad" width="40" height="40"> 
 </a></a></p>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg" alt="css" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+</a>
+
  
 <p><a href="https://www.buymeacoffee.com/buymeacoffee Nupurpusha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee Nupur-pusha" /></a></p><br><br>
 
