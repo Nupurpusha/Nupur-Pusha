@@ -65,6 +65,6 @@
     </a>
 </p>
 
-<!--<p align="center">
+<p align="center">
 <a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Nupurpusha}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
-</p> -->
+</p>
