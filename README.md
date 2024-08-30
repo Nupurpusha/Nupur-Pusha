@@ -55,7 +55,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nupurpusha&show_icons=true&locale=en&theme=tokyonight" alt="Nupurpusha" /></p>
 
-<p style="text-align: left;">
+<p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nupurpusha&theme=tokyonight" alt="Nupur pusha" />
 </p>
 
